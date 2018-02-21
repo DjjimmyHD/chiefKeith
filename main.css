@@ -1,0 +1,20 @@
+body {
+    background-color: #FF9B74;
+}
+
+.noodle {
+    font-family: 'Caveat', cursive;
+}
+
+.sauce {
+    font-family: 'VT323', monospace;
+    color: purple;
+}
+
+h1 {
+    color: aqua;
+}
+
+h3 {
+    color: red;
+}
